@@ -34,7 +34,6 @@ Define methods for the following deliverables:
 - **BONUS** `average_heat_level(spicy_foods)` 
     - given an array of spicy foods, **return an integer** representing the average heat level of all the spicy foods in the array.
 
-
 ## Submitting
 
 When you’re finished, run the following commands in your terminal to submit:
